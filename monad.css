@@ -1,0 +1,92 @@
+
+/**
+ * @name Monad
+ * @author ReubenStill
+ * @version 0.0.1
+ * @description Made with love for Monad by Reuben
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite monad
+ * @Twitter https://x.com/monad_xyz
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;700&display=swap');
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+
+:root {
+  --main-color: #673AB7;
+  --hover-color: #5C00FF;
+  --success-color: #4CAF50;
+  --danger-color: #FF0000;
+  --url-color: #03A9F4;
+  --background-image: url('https://images-ext-1.discordapp.net/external/NCIII5mJbfOB7FkzbKIrJoHUE6h8EaMR5z0JN6MP6YU/https/pbs.twimg.com/profile_banners/1342961741718810632/1682002951/1500x500?format=webp&width=1025&height=342');
+  --background-shading: 100%;
+  --background-position: center;
+  --background-size: cover;
+  --background-repeat: no-repeat;
+  --background-attachment: fixed;
+  --background-brightness: 100%;
+  --background-contrast: 100%;
+  --background-saturation: 100%;
+  --background-grayscale: 0%;
+  --background-invert: 0%;
+  --background-blur: 0px;
+  --background-overlay: rgba(0,0,0,0.6);
+  --user-popout-image: url('https://s6.ezgif.com/tmp/ezgif-6-3d442ed049.png');
+  --user-popout-position: bottom right;
+  --user-popout-size: cover;
+  --user-popout-repeat: no-repeat;
+  --user-popout-attachment: fixed;
+  --user-popout-brightness: 100%;
+  --user-popout-contrast: 100%;
+  --user-popout-saturation: 100%;
+  --user-popout-grayscale: 0%;
+  --user-popout-invert: 0%;
+  --user-popout-blur: 3px;
+  --user-modal-image: url('https://s6.ezgif.com/tmp/ezgif-6-3d442ed049.png');
+  --user-modal-position: center;
+  --user-modal-size: cover;
+  --user-modal-repeat: no-repeat;
+  --user-modal-attachment: fixed;
+  --user-modal-brightness: 100%;
+  --user-modal-contrast: 100%;
+  --user-modal-saturation: 100%;
+  --user-modal-grayscale: 0%;
+  --user-modal-invert: 0%;
+  --user-modal-blur: 3px;
+  --home-icon: url('https://pbs.twimg.com/profile_images/1744741990498279424/Mon40JUX_400x400.jpg');
+  --home-position: center;
+  --home-size: 50px;
+  --channel-unread: #FFFFFF;
+  --channel-color: rgb(218,0,255,1);
+  --muted-color: rgb(244,67,54,1);
+  --online-color: #9C27B0;
+  --idle-color: #009688;
+  --dnd-color: #811313;
+  --streaming-color: #E91E63;
+  --offline-color: #FFFFFF;
+  --main-font: Montserrat;
+  --code-font: Consolas;
+  --channels-width: 220px;
+  --members-width: 240px;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+}
+
+/* Last Updated on 18-05-24 by ReubenStill */
+
+
