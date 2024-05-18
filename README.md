@@ -1,2 +1,2 @@
 # Monad-Theme
-Made for Monad 💜💜💜
+Made for Monad by ReubenStill 💜💜💜
